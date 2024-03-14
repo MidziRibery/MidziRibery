@@ -25,6 +25,9 @@
 - <b>[Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity?utm_source=gg&utm_medium=sem&utm_campaign=B2C_APAC_Google-Cybersecurity_Google_FTCOF_Professional-Certificates_Arte&utm_content=B2C&campaignid=21039609324&adgroupid=159929353355&device=c&keyword=google%20cybersecurity%20professional%20certificate&matchtype=p&network=g&devicemodel=&adpostion=&creativeid=691616196417&hide_mobile_promo&gad_source=1&gclid=Cj0KCQjwncWvBhD_ARIsAEb2HW8rjPX_wkkil6TJq9-JO4HT-V8IwXu3tvpNvXnfiJI_C-xybBm7TKYaAplJEALw_wcB)</b>
   - [Foundations of Cybersecurity](https://www.coursera.org/learn/foundations-of-cybersecurity/home/module/4)
 
+- <b>[HarvardX: CS50's Introduction to Programming with Python](https://www.edx.org/learn/python/harvard-university-cs50-s-introduction-to-programming-with-python)</b>
+
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="MidziRibery | LinkedIn" width="22px" src="https://github.com/MidziRibery/cybersecurity-portfolio/assets/109605580/7a6ac399-f835-49fb-87bc-4f6419591a8a)" />][linkedin]
