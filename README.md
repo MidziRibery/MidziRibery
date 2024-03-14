@@ -1,7 +1,24 @@
 <h1>Hi, I'm Midzi! <br/> Aspiring Cybersecurity Analyst, Aspiring Programmer, <br/> Full-Time Student</h1>
 
 <h2>👮🏽 Cybersecurity Projects:</h2>
+
+
 <h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>[Muslim Mastery - First MERN Fullstack_Individual](https://muslimmasteryfe.vercel.app/)</b>
+  - [Muslim Mastery FrontEnd](https://github.com/MidziRibery/ga-project4-FE)
+  - [Muslim Mastery BackEnd](https://github.com/MidziRibery/ga-project4-BE)
+
+- <b>[TranquilTube - First MERN Fullstack_Collab](https://tranquiltube.vercel.app/)</b>
+  - [TranquilTube - Video Platform For Stress Relieve - FrontEnd](https://github.com/MidziRibery/ga-project3-frontend)
+  - [TranquilTube - Video Platform For Stress Relieve - BackEnd](https://github.com/charmainelhm/ga-project3-backend)
+
+- <b>[Krypto Korner - First React App](https://krypto-korner.vercel.app/)</b>
+  - [Krypto Korner - Github](https://github.com/MidziRibery/kryptokorner)
+
+- <b>[Maths Mania - First JavaScript Game](https://midziribery.github.io/mygame/)</b>
+  - [Maths Mania - Github](https://github.com/MidziRibery/mygame)
+
 
 <h2>🌱 I’m currently learning</h2>
 
