@@ -22,6 +22,7 @@
 
 <h2>🌱 I’m currently learning</h2>
 
+- <b>[Cybersecurity Vocational Training Programme, Centre for Cybersecurity Institute](https://www.centreforcybersecurity.com/en-sg/individual-cybersecurity-courses)</b>
 - <b>[Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity?utm_source=gg&utm_medium=sem&utm_campaign=B2C_APAC_Google-Cybersecurity_Google_FTCOF_Professional-Certificates_Arte&utm_content=B2C&campaignid=21039609324&adgroupid=159929353355&device=c&keyword=google%20cybersecurity%20professional%20certificate&matchtype=p&network=g&devicemodel=&adpostion=&creativeid=691616196417&hide_mobile_promo&gad_source=1&gclid=Cj0KCQjwncWvBhD_ARIsAEb2HW8rjPX_wkkil6TJq9-JO4HT-V8IwXu3tvpNvXnfiJI_C-xybBm7TKYaAplJEALw_wcB)</b>
   - [Foundations of Cybersecurity](https://www.coursera.org/account/accomplishments/verify/2MRYLECV56JW)
 
