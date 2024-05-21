@@ -1,7 +1,9 @@
 <h1>Hi, I'm Midzi! <br/> ➡️ Aspiring Cybersecurity Analyst <br/>➡️ Aspiring Programmer <br/>➡️ Full-Time Student</h1>
 
 <h2>👮🏽 Cybersecurity Projects:</h2>
-- <b>[PROJECT: Net Crafts - First Cybersecurity Project] [Project_Net Crafts.pdf](https://github.com/MidziRibery/MidziRibery/files/15388172/Project_Net.Crafts.pdf)</b>
+
+- <b>[PROJECT: Net Crafts - First Cybersecurity Project](https://github.com/MidziRibery/MidziRibery/files/15388172/Project_Net.Crafts.pdf)</b>
+
 
 
 <h2>👨‍💻 Software Development Projects:</h2>
