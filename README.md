@@ -4,6 +4,7 @@
 
 - <b>[PROJECT: Net Crafts - First Cybersecurity Project](https://github.com/MidziRibery/MidziRibery/files/15388172/Project_Net.Crafts.pdf)</b>
 
+- <b>[PROJECT: Remote Infiltration](https://github.com/MidziRibery/MidziRibery/assets/109605580/9051a56d-2633-4b69-893b-ad3e0ce839e0)</b>
 
 
 <h2>👨‍💻 Software Development Projects:</h2>
