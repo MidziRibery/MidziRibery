@@ -41,6 +41,9 @@
 - <b>[Cybersecurity Vocational Training Programme, Centre for Cybersecurity Institute](https://www.centreforcybersecurity.com/en-sg/individual-cybersecurity-courses)</b>
 - <b>[Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity?utm_source=gg&utm_medium=sem&utm_campaign=B2C_APAC_Google-Cybersecurity_Google_FTCOF_Professional-Certificates_Arte&utm_content=B2C&campaignid=21039609324&adgroupid=159929353355&device=c&keyword=google%20cybersecurity%20professional%20certificate&matchtype=p&network=g&devicemodel=&adpostion=&creativeid=691616196417&hide_mobile_promo&gad_source=1&gclid=Cj0KCQjwncWvBhD_ARIsAEb2HW8rjPX_wkkil6TJq9-JO4HT-V8IwXu3tvpNvXnfiJI_C-xybBm7TKYaAplJEALw_wcB)</b>
   - [Foundations of Cybersecurity](https://coursera.org/share/0cbc9f80afb90522cfbc415284bd7d01)
+  - [Play It Safe: Manage Security Risks](https://coursera.org/share/1f62ccf79add224a0f4f8fae63abc29b)
+  - [Connect and Protect: Networks and Network Security](https://coursera.org/share/a6d52923a9fc39c79ea69d99bcd2b7b6)
+  - [Tools of the Trade: Linux and SQL](https://coursera.org/share/76540817bb6adf97343597498450a902)
 
 - <b>[HarvardX: CS50's Introduction to Programming with Python](https://www.edx.org/learn/python/harvard-university-cs50-s-introduction-to-programming-with-python)</b>
 
