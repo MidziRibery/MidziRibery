@@ -2,7 +2,9 @@
 
 <h2>👮🏽 Cybersecurity Projects:</h2>
 
-- <b>[PROJECT: Net Crafts - First Cybersecurity Project](https://github.com/MidziRibery/MidziRibery/files/15388172/Project_Net.Crafts.pdf)</b>
+- <b>[PROJECT: Log Analyzer - First Automated Python Scripting](https://github.com/MidziRibery/-PROJECT-Log-Analyzer-/tree/main)</b>
+  - [Documentation - PDF](https://github.com/MidziRibery/-PROJECT-Log-Analyzer-/blob/main/Python%20Project.pdf)
+  - [Python Script](https://github.com/MidziRibery/-PROJECT-Log-Analyzer-/blob/main/Python%20Project.py)
 
 - <b>[PROJECT: Automated Remote Infiltration](https://github.com/MidziRibery/PROJECT-Remote-Infiltration)</b>
   - [Documentation - PDF](https://github.com/MidziRibery/PROJECT-Remote-Infiltration/blob/main/Project%20Network%20Research_Muhammad%20Termidzi%20bin%20Azmi_s27.pdf)
