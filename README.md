@@ -4,16 +4,18 @@
 
 - <b>[PROJECT: Net Crafts - First Cybersecurity Project](https://github.com/MidziRibery/MidziRibery/files/15388172/Project_Net.Crafts.pdf)</b>
 
-- <b>[PROJECT: Remote Infiltration](https://github.com/MidziRibery/PROJECT-Remote-Infiltration)</b>
+- <b>[PROJECT: Automated Remote Infiltration](https://github.com/MidziRibery/PROJECT-Remote-Infiltration)</b>
   - [Documentation - PDF](https://github.com/MidziRibery/PROJECT-Remote-Infiltration/blob/main/Project%20Network%20Research_Muhammad%20Termidzi%20bin%20Azmi_s27.pdf)
   - [Bash Script](https://github.com/MidziRibery/PROJECT-Remote-Infiltration/blob/main/network_research.sh)
   - [Video Demo](https://github.com/MidziRibery/MidziRibery/assets/109605580/9051a56d-2633-4b69-893b-ad3e0ce839e0)
 
-- <b>[PROJECT: Info Extractor - First Cybersecurity Project](https://github.com/MidziRibery/MidziRibery/files/15388172/Project_Net.Crafts.pdf)</b>
+- <b>[PROJECT: Info Extractor - First Bash Scripting](https://github.com/MidziRibery/PROJECT-INFO-EXTRACTOR/tree/main)</b>
+  - [Documentation - PDF](https://github.com/MidziRibery/PROJECT-INFO-EXTRACTOR/blob/main/Information%20Extractor.pdf)
+  - [Bash Script](https://github.com/MidziRibery/PROJECT-INFO-EXTRACTOR/blob/main/infoX.sh)
 
-- <b>[PROJECT: Net Crafts - First Cybersecurity Project](https://github.com/MidziRibery/MidziRibery/files/15388172/Project_Net.Crafts.pdf)</b>
-  - [Documentation - PDF](https://github.com/MidziRibery/PROJECT-Remote-Infiltration/blob/main/Project%20Network%20Research_Muhammad%20Termidzi%20bin%20Azmi_s27.pdf)
-  - [Bash Script](https://github.com/MidziRibery/PROJECT-Remote-Infiltration/blob/main/network_research.sh)
+- <b>[PROJECT: Net Crafts - First Cybersecurity Project](https://github.com/MidziRibery/PROJECT-Net-Craft/tree/main)</b>
+  - [Documentation - PDF](https://github.com/MidziRibery/PROJECT-Net-Craft/blob/main/Project_Net%20Crafts.pdf)
+  - [Home Network PDF](https://github.com/MidziRibery/PROJECT-Net-Craft/blob/main/Home%20Network.pdf)
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
