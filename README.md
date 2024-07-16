@@ -56,7 +56,8 @@
     
 <h2>📑 Resume </h2>
 
-- [As of March 2024](https://github.com/MidziRibery/MidziRibery/files/14596964/Muhammad.Termidzi.Bin.Azmi_Resume.pdf) 
+- [As of July 2024](https://github.com/user-attachments/files/16245574/Resume_Muhammad.Termidzi.Bin.Azmi_Jul2024_4.pdf)
+
 
 
 <h2> 🤳 Connect with me:</h2>
