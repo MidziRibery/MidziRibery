@@ -4,7 +4,10 @@
 
 - <b>[PROJECT: Net Crafts - First Cybersecurity Project](https://github.com/MidziRibery/MidziRibery/files/15388172/Project_Net.Crafts.pdf)</b>
 
-- <b>[PROJECT: Remote Infiltration](https://github.com/MidziRibery/MidziRibery/assets/109605580/9051a56d-2633-4b69-893b-ad3e0ce839e0)</b>
+- <b>[PROJECT: Remote Infiltration](https://github.com/MidziRibery/PROJECT-Remote-Infiltration)</b>
+  - [Documentation - PDF](https://github.com/MidziRibery/PROJECT-Remote-Infiltration/blob/main/Project%20Network%20Research_Muhammad%20Termidzi%20bin%20Azmi_s27.pdf)
+  - [Bash Script]([https://github.com/MidziRibery/ga-project4-BE](https://github.com/MidziRibery/PROJECT-Remote-Infiltration/blob/main/network_research.sh))
+  - [Video Demo](https://github.com/MidziRibery/MidziRibery/assets/109605580/9051a56d-2633-4b69-893b-ad3e0ce839e0)
 
 
 <h2>👨‍💻 Software Development Projects:</h2>
