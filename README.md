@@ -68,7 +68,7 @@
     
 <h2>📑 Resume </h2>
 
-- [As of July 2024](https://github.com/MidziRibery/MidziRibery/blob/main/Resume_Muhammad%20Termidzi%20Bin%20Azmi_Jul2024_GitHub.pdf)
+- 
 
 
 
