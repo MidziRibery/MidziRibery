@@ -1,4 +1,4 @@
-<h1>Hi, I'm Midzi! <br/> ➡️ Aspiring Cybersecurity Analyst <br/>➡️ Aspiring Programmer <br/>➡️ Full-Time Student</h1>
+<h1>Hi, I'm Midzi! <br/> ➡️ Cybersecurity Analyst <br/>➡️ Programmer</h1>
 
 <h2>👮🏽 Cybersecurity Projects:</h2>
 
